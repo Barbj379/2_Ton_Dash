@@ -78,7 +78,7 @@
     "    return fig\n",
     "        \n",
     "if __name__ == '__main__':\n",
-    "    app.server(debug=True)\n",
+    "    app.run_server(debug=True)\n",
     "# Create an app layout"
    ]
   },
